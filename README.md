@@ -1,0 +1,2 @@
+# static
+LA course
